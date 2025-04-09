@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Plataforma Educativa</title>
+    <link href="https://www.plataformaeducativa.com/atom.xml" rel="self"/>
+    <updated>2025-04-04T10:00:00Z</updated>
+    <author>
+        <name>Administrador</name>
+    </author>
+    <id>https://www.plataformaeducativa.com/</id>
+
+    <!-- Entrada 1: Nuevo Curso de Python -->
+    <entry>
+        <title>Nuevo Curso de Programación en Python</title>
+        <link href="https://www.plataformaeducativa.com/cursos/python"/>
+        <summary>Aprende a programar en Python con este curso completo, cubriendo desde lo más básico hasta niveles avanzados.</summary>
+        <updated>2025-04-02T12:30:00Z</updated>
+        <author>
+            <name>Profesor Juan Pérez</name>
+        </author>
+        <id>https://www.plataformaeducativa.com/cursos/python</id>
+    </entry>
+
+    <!-- Entrada 2: Conferencia sobre Inteligencia Artificial -->
+    <entry>
+        <title>Conferencia sobre Inteligencia Artificial</title>
+        <link href="https://www.plataformaeducativa.com/eventos/ia"/>
+        <summary>Descubre las últimas tendencias en Inteligencia Artificial aplicada a la educación, con expertos del área.</summary>
+        <updated>2025-04-05T10:00:00Z</updated>
+        <author>
+            <name>Dr. Laura Gómez</name>
+        </author>
+        <id>https://www.plataformaeducativa.com/eventos/ia</id>
+    </entry>
+
+    <!-- Entrada 3: Artículo sobre Tecnología Educativa -->
+    <entry>
+        <title>La Revolución de la Tecnología en la Educación</title>
+        <link href="https://www.plataformaeducativa.com/articulos/tecnologia-educativa"/>
+        <summary>Exploramos cómo las nuevas tecnologías están transformando el proceso educativo en todo el mundo.</summary>
+        <updated>2025-04-06T09:00:00Z</updated>
+        <author>
+            <name>Profesor Carlos Martín</name>
+        </author>
+        <id>https://www.plataformaeducativa.com/articulos/tecnologia-educativa</id>
+    </entry>
+
+</feed>
