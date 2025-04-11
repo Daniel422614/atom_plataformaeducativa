@@ -44,4 +44,14 @@
         <id>https://www.plataformaeducativa.com/articulos/tecnologia-educativa</id>
     </entry>
 
+    <entry>
+        <title>Curso de Historia</title>
+        <link href="https://www.plataformaeducativa.com/cursos/historia"/>
+        <summary>Curso sobre historia moderna.</summary>
+        <updated>2025-04-06T12:00:00Z</updated>
+        <author>
+            <name>Profesor C</name>
+        </author>
+    </entry>
+
 </feed>
